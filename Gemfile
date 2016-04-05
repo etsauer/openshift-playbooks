@@ -6,5 +6,5 @@ gem 'asciidoctor', '1.5.2'
 gem "html-proofer"
 
 group :jekyll_plugins do
-  gem "jekyll-asciidoc"
+  gem "jekyll-asciidoc", '1.0.0'
 end
