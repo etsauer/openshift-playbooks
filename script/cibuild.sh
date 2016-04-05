@@ -3,3 +3,4 @@ set -e
 
 bundle exec jekyll build
 bundle exec htmlproofer ./_site --check-html
+cat ./site/playbooks/fundamentals/index.html
