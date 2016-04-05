@@ -2,6 +2,8 @@
 
 OpenShift Playbooks is a documentation site for OpenShift, maintained by the OpenShift community and moderated by the North America Emerging Technologies Practice in Red Hat Consulting.
 
+The Delivery Playbooks are published to http://playbooks-rhtconsulting.rhcloud.com/
+
 == Overview
 
 This site is written in asciidoc format and is built using the link:https://github.com/asciidoctor/jekyll-asciidoc[Asciidoctor plugin for Jekyll].
