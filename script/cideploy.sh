@@ -1,5 +1,6 @@
 #!/bin/bash
 
+git --version
 
 # Deploy site if on master branch and not PR
 if [ "$TRAVIS_REPO_SLUG" == "rhtconsulting/openshift-playbooks" ] && [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == false ]; then
